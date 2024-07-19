@@ -1,0 +1,129 @@
+{
+    "customers": [
+        {
+            "name": "Person1",
+            "holdings": [
+                {
+                    "Name": "BTC",
+                    "Quantity": 0.124,
+                    "AvgPrice": 21345.67
+                },
+                {
+                    "Name": "ETH",
+                    "Quantity": 0.48,
+                    "AvgPrice": 1234.67
+                },
+                {
+                    "Name": "BNB",
+                    "Quantity": 12,
+                    "AvgPrice": 101.67
+                },
+                {
+                    "Name": "TRX",
+                    "Quantity": 1241,
+                    "AvgPrice": 0.31
+                }
+            ]
+        },
+        {
+            "name": "Person2",
+            "holdings": [
+                {
+                    "Name": "BTC",
+                    "Quantity": 0.114,
+                    "AvgPrice": 60011
+                },
+                {
+                    "Name": "ETH",
+                    "Quantity": 1241,
+                    "AvgPrice": 657.25
+                },
+                {
+                    "Name": "BNB",
+                    "Quantity": 5,
+                    "AvgPrice": 103
+                },
+                {
+                    "Name": "TRX",
+                    "Quantity": 111,
+                    "AvgPrice": 0.32
+                }
+            ]
+        },
+        {
+            "name": "Person3",
+            "holdings": [
+                {
+                    "Name": "BTC",
+                    "Quantity": 0.4,
+                    "AvgPrice": 32345.67
+                },
+                {
+                    "Name": "ETH",
+                    "Quantity": 12,
+                    "AvgPrice": 1092
+                },
+                {
+                    "Name": "BNB",
+                    "Quantity": 1,
+                    "AvgPrice": 76.12
+                },
+                {
+                    "Name": "TRX",
+                    "Quantity": 1221,
+                    "AvgPrice": 11.12
+                }
+            ]
+        },
+        {
+            "name": "Person4",
+            "holdings": [
+                {
+                    "Name": "BTC",
+                    "Quantity": 0.02,
+                    "AvgPrice": 67521.12
+                },
+                {
+                    "Name": "ETH",
+                    "Quantity": 986,
+                    "AvgPrice": 1211
+                },
+                {
+                    "Name": "BNB",
+                    "Quantity": 1,
+                    "AvgPrice": 12
+                },
+                {
+                    "Name": "TRX",
+                    "Quantity": 98.12,
+                    "AvgPrice": 12.01
+                }
+            ]
+        },
+        {
+            "name": "Person5",
+            "holdings": [
+                {
+                    "Name": "BTC",
+                    "Quantity": 0,
+                    "AvgPrice": 0
+                },
+                {
+                    "Name": "ETH",
+                    "Quantity": 6,
+                    "AvgPrice": 751
+                },
+                {
+                    "Name": "BNB",
+                    "Quantity": 0.0001,
+                    "AvgPrice": 121
+                },
+                {
+                    "Name": "TRX",
+                    "Quantity": 0,
+                    "AvgPrice": 0
+                }
+            ]
+        }
+    ]
+}
